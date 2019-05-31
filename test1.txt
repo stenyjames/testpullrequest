@@ -2,3 +2,5 @@ First change updated in master
 
 
 New change 1 added in master
+
+New change 2 added in master

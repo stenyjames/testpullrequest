@@ -1,3 +1,0 @@
-This is the first change
-
-This is the second change introduced from github ui
